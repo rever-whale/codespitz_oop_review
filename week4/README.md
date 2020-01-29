@@ -341,6 +341,7 @@ Simplex, Multiplex<br>
 
 JSON renderer를 만들어보자.
 찾아볼 키워드 - 꼬리물기 최적화
+
 ---
 
 ### To be continued.. 추상팩토리 패턴과 커맨드 패턴
