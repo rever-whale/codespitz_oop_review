@@ -9,7 +9,7 @@ Strategy, Observer, Template Method, Composite Pattern
 가장 비슷한 의미를 가진 말은 `domain`, `knowledge`, `broad-algorithm`에 가깝다.<br>
 추상적인 부분에서 범용적으로 정의한다.
 
-지난 주 작성한 코드를 다시 살펴보자 //
+지난 주 작성한 코드를 다시 살펴보자
 ```js
 // week2 Structure & Control
 const Binder = class {
